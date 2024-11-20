@@ -1,54 +1,46 @@
-# Assessment 2 - README.md
+# DLE305 Assessment 3 Summary
 
-## Requirements
-- Python 3.6 or higher
-- pip
-- virtualenv
-- git
-- kaggle
-
-## Libraries
-- TensorFlow
-- numpy
-- matplotlib
-- pandas
-- scikit-learn
-- pillow
-
-https://www.kdnuggets.com/2019/07/convolutional-neural-networks-python-tutorial-tensorflow-keras.html
-https://github.com/StrikingLoo/Cats-and-dogs-classifier-tensorflow-CNN/blob/master/Convolutional_experiments.ipynb
-https://www.kaggle.com/c/dogs-vs-cats
-
-
-### Assessment Task Summary
-
-To complete this assessment task, follow the steps outlined in the article "Convolutional Neural Networks: A Python Tutorial Using TensorFlow and Keras" by Luciano. The task involves creating an image classifier to identify whether an image contains a dog or a cat. Use the provided codes and dataset to execute and analyze the following sections from the article:
-
-1. **Loading and Pre-processing Our Image Data with NumPy**
-2. **Training Our Neural Networks**
-3. **Training a Convolutional Neural Network**
-4. **Neural Network with Two Convolutional Layers**
-5. **Even Bigger Convolutional Neural Network**
-
-#### Requirements:
-- Implement the code in Python, ensuring it is well-formatted and follows Python naming conventions.
-- Add sufficient comments in your own words to explain the code.
-- Describe all the steps in a 1,000-word report, highlighting deep-learning principles and how convolutional neural networks helped achieve the expected results.
-- Include a cover page, table of contents, and page numbers in your report.
-- Provide a concise summary, articulate relevant deep-learning principles, and discuss any limitations.
-- Articulate relevant deep-learning principles and necessary methods.
-- Highlight how convolutional neural networks worked to produce the expected result despite possible limitations.
-- Present your report using any standard writing format.
-- Include a cover page and table of contents.
-- The cover page must include your official student name and number. A word count should be stated at the end of the report (before the reference section).
-- Page numbers are required. The page number should appear in the footer together with your student identification number.
-- All figures and tables should have meaningful captions.
-
-#### Assessment Criteria:
-- Completeness and efficiency of the implementation.
-- Coding convention and quality of the code.
-- Articulation of the outcomes in relation to the theories from class.- Submit the source codes and the written report, including instructions on how to run your code at the top of your main source code file inside a comment block.
-
-#### Report Guidelines:
-- Prepare a 1,000-word report clearly articulating the entire process of your project implementation and outcomes.
-- Provide a concise summary highlighting the project statement, aim, and any possible research questions.
+### Objective
+Enhance the existing image classifier from Assessment 2 to recognize lions and tigers in addition to cats and dogs.
+<br>
+<br>
+### Instructions
+1. **Start from Assessment 2 Implementation:**
+   - Use the pre-trained model from Assessment 2.
+<br>
+<br>
+2. **Enhance the Image Classifier:**
+   - Enable the model to recognize lions and tigers.
+   - Use appropriate techniques (e.g., retraining with more data, transfer learning, regularization).
+<br>
+<br>
+3. **Demonstrate and Explain Enhancements:**
+   - Show how the enhanced classifier is achieved using the pre-trained model.
+   - Discuss the extent to which the new model meets the objective.
+   - Highlight any issues (e.g., overfitting) and provide insights.
+<br>
+<br>
+4. **Report Requirements:**
+   - 1,500-word document.
+   - Include a short introduction, deep-learning principles, and detailed steps of the enhancement.
+   - Cover page with student names, numbers, group ID, and word count.
+   - Table of contents, page numbers, meaningful captions for figures and tables.
+   - Standard writing format.
+<br>
+<br>
+5. **Presentation Requirements:**
+   - 10-minute audio-visual presentation.
+   - Title slide with student and subject details.
+   - Summarize research, engaging and informative.
+   - Consistent layout/text sizes and style.
+   - PDF format for slides.
+   - Equal presentation time for all students.
+   - Practise beforehand for clarity and conciseness.
+   - Include correct reference lists if required.
+<br>
+<br>
+### Deliverables
+- Source codes.
+- Written report.
+- Presentation slides.
+- Instructions on how to run the code in a comment block at the top of the main source code file.
