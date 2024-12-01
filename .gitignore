@@ -2,3 +2,6 @@
 /conv_model_big.keras
 /conv_model_big_e19.keras
 /conv_model_huge_e13.keras
+*.jpg
+*.png
+*.keras
